@@ -1,0 +1,7 @@
+2023-04-30 20:18:20,548:__main__:INFO:End of saveToFile Program
+2023-04-30 20:18:20,548:__main__:DEBUG:########################
+2023-04-30 20:18:56,650:saveTofile:INFO:End of saveToFile Program
+2023-04-30 20:18:56,650:saveTofile:DEBUG:########################
+2023-04-30 20:18:56,650:saveTofile:DEBUG:checking name "remya"....
+2023-04-30 20:18:56,651:saveTofile:DEBUG:No data found
+2023-04-30 20:18:56,651:saveTofile:DEBUG:Saving details of remya...
